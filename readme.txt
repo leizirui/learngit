@@ -20,6 +20,4 @@ Included plugins:
 4.  Mime Tool 2.1
 
 
-Updater (Installer only):
-
-* WinGup v4.1
+'haha'
